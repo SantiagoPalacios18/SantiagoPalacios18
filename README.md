@@ -1,5 +1,5 @@
 > ## Santiago Palacios | Estudiante de programacion
-> #### Namertag: *Cross*
+> #### Gamertag: *Cross*
 ```mysql
   SELECT * FROM presentacionesChidas WHERE id_usuario = 28
 ```
